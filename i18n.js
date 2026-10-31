@@ -49,7 +49,7 @@
       },
       privacy: {
         heading: 'Datenschutzerklärung',
-        asOf: 'Stand: 1. August 2026',
+        asOf: 'Stand: 31. Oktober 2026',
         controller: 'Verantwortlicher',
         contact: 'Kontaktaufnahme',
         contactBody:
@@ -58,9 +58,9 @@
         appBody1:
           'Knïps speichert Fotos und Einstellungen nur lokal auf deinem Gerät. Es gibt kein Backend, keine Konten. An mich werden keine personenbezogenen Daten aus der App übermittelt.',
         appBody2:
-          'Die App kann Kamera, Mediathek und optional Standort anfragen — jeweils nur für die jeweilige Funktion (Fotos aufnehmen/speichern bzw. optional GPS ins Bild).',
+          'Die App fragt nach Kamera, Mediathek und optional Standort, jeweils nur für die jeweilige Funktion (Fotos aufnehmen, in der Galerie speichern, Ort aufs Foto). Ist GPS an, enthält jedes Foto den genauen Standort in seinen Bilddaten, wie bei der normalen Handykamera. Für den Ortsnamen auf dem Foto schickt die App die Koordinaten an den Ortsdienst deines Geräts (Apple bzw. Google), unter Android teils auch an <a href="https://locationiq.com/privacy" target="_blank" rel="noreferrer">LocationIQ</a> (Server in der EU).',
         appBody3:
-          'Optionaler Druck-Upload geht an dm-Foto (DE) oder Coop Fotoservice (CH), nicht an mich. Mit dm und Coop besteht keine Partnerschaft und keine kommerzielle Zusammenarbeit. Es gelten die Datenschutzbestimmungen von <a href="https://www.foto.dm.de/datenschutz" target="_blank" rel="noreferrer">dm-Foto</a> und <a href="https://photo.coop.ch/datenschutz.html" target="_blank" rel="noreferrer">Coop Fotoservice</a>.',
+          'Optionaler Druck-Upload: Fotos gehen nur an dm-Foto (DE) oder Coop Fotoservice (CH), wenn du den Upload selbst startest, und nur die Fotos der gewählten Rollen, samt Bilddaten wie Aufnahmezeit und Standort. Die App öffnet dafür die Webseite des Dienstes und füllt dort das Upload-Formular aus. Anmeldedaten speichert oder überträgt sie nicht, an mich geht nichts. Mit dm und Coop besteht keine Partnerschaft und keine kommerzielle Zusammenarbeit. Es gelten die Datenschutzbestimmungen von <a href="https://www.foto.dm.de/datenschutz" target="_blank" rel="noreferrer">dm-Foto</a> und <a href="https://photo.coop.ch/datenschutz.html" target="_blank" rel="noreferrer">Coop Fotoservice</a>.',
         appStore: 'App-Store',
         appStoreBody:
           'Der Download der App erfolgt über den Apple App Store oder den Google Play Store. Dabei verarbeiten Apple bzw. Google eigene Daten (z. B. Kontodaten, Zahlungsdaten, Geräteinformationen), auf die ich keinen Einfluss habe. Es gelten die Datenschutzbestimmungen des jeweiligen Anbieters:',
@@ -135,7 +135,7 @@
       },
       privacy: {
         heading: 'Privacy policy',
-        asOf: 'As of: 1 August 2026',
+        asOf: 'As of: 31 October 2026',
         controller: 'Controller',
         contact: 'Getting in touch',
         contactBody:
@@ -144,9 +144,9 @@
         appBody1:
           'Knïps stores photos and settings only locally on your device. There is no backend, no accounts. No personal data from the app is sent to me.',
         appBody2:
-          'The app may request camera, photo library, and optionally location — each only for that feature (taking/saving photos, or optionally GPS on the image).',
+          'The app asks for camera, photo library and optionally location, each only for that feature (taking photos, saving to the gallery, place on the photo). With GPS on, every photo contains the exact location in its image data, as with the normal phone camera. For the place name on the photo, the app sends the coordinates to your device\'s location service (Apple or Google), on Android sometimes also to <a href="https://locationiq.com/privacy" target="_blank" rel="noreferrer">LocationIQ</a> (servers in the EU).',
         appBody3:
-          'Optional print upload goes to dm-Foto (DE) or Coop Fotoservice (CH), not to me. There is no partnership with dm or Coop. The privacy policies of <a href="https://www.foto.dm.de/datenschutz" target="_blank" rel="noreferrer">dm-Foto</a> and <a href="https://photo.coop.ch/datenschutz.html" target="_blank" rel="noreferrer">Coop Fotoservice</a> apply.',
+          'Optional print upload: photos only go to dm-Foto (DE) or Coop Fotoservice (CH) when you start the upload yourself, and only the photos of the selected rolls, including image data such as capture time and location. For this, the app opens the service\'s website and fills in its upload form. It does not store or transmit any login data, and nothing goes to me. There is no partnership or commercial cooperation with dm or Coop. The privacy policies of <a href="https://www.foto.dm.de/datenschutz" target="_blank" rel="noreferrer">dm-Foto</a> and <a href="https://photo.coop.ch/datenschutz.html" target="_blank" rel="noreferrer">Coop Fotoservice</a> apply.',
         appStore: 'App Store',
         appStoreBody:
           'The app is downloaded through the Apple App Store or Google Play Store. Apple or Google process their own data (e.g. account data, payment data, device information), which I have no control over. The privacy policy of the respective provider applies:',
@@ -221,7 +221,7 @@
       },
       privacy: {
         heading: 'Dateschutzerklärig',
-        asOf: 'Stand: 1. Auguscht 2026',
+        asOf: 'Stand: 31. Oktober 2026',
         controller: 'Verantwortliche',
         contact: 'Kontaktufnaam',
         contactBody:
@@ -230,9 +230,9 @@
         appBody1:
           'Knïps spycheret Fotos und Iistellige nur lokal uf dim Grät. Es git keis Backend, kei Konte. A mich wärded kei persönlichi Date us de App übermittlet.',
         appBody2:
-          'D App cha Kamera, Mediathek und optional Standort aafroge — jewiils nur für die Funkzion (Fotos ufnee/spychere bzw. optional GPS ins Bild).',
+          'D App fröget nach Kamera, Mediathek und optional Standort, jewiils nur für d Funkzion (Fotos ufnee, i de Galerie spychere, Ort ufs Foto). Isch GPS aa, het jedes Foto de gnaui Standort i sine Bilddate, wie bi de normale Handykamera. Für de Ortsname uf em Foto schickt d App d Koordinate a de Ortsdienscht vo dim Gerät (Apple bzw. Google), under Android teils au a <a href="https://locationiq.com/privacy" target="_blank" rel="noreferrer">LocationIQ</a> (Server i de EU).',
         appBody3:
-          'S optional Druck-Ufelade goot a dm-Foto (DE) oder Coop Fotoservice (CH), nöd a mich. Mit dm und Coop git s kei Partnerschaft. Es gälted d Dateschutzbestimmige vo <a href="https://www.foto.dm.de/datenschutz" target="_blank" rel="noreferrer">dm-Foto</a> und <a href="https://photo.coop.ch/datenschutz.html" target="_blank" rel="noreferrer">Coop Fotoservice</a>.',
+          'Optionals Druck-Ufelade: Fotos gönd nur a dm-Foto (DE) oder Coop Fotoservice (CH), wenn du s Ufelade sälber startisch, und nur d Fotos vo de gwählte Rolle, mitsamt Bilddate wie Ufnahmeziit und Standort. D App öffnet defür d Websiite vom Dienscht und füllt det s Ufelade-Formular us. Aamäldedate spycheret oder überträit si nöd, a mich gaht nüt. Mit dm und Coop git s kei Partnerschaft und kei kommerzielli Zämearbet. Es gälted d Dateschutzbestimmige vo <a href="https://www.foto.dm.de/datenschutz" target="_blank" rel="noreferrer">dm-Foto</a> und <a href="https://photo.coop.ch/datenschutz.html" target="_blank" rel="noreferrer">Coop Fotoservice</a>.',
         appStore: 'App-Store',
         appStoreBody:
           'De Download vo de App lauft über de Apple App Store oder de Google Play Store. Debii verarbeited Apple bzw. Google eigeni Date (z. B. Kontodate, Zaaligsdate, Grätinformatione), uf die ich kei Iifluss ha. Es gälted d Dateschutzbestimmige vom jewiilige Aabieter:',
