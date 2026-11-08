@@ -91,7 +91,7 @@
         responsible: 'Verantwortlich für den Inhalt',
         responsibleBody: 'Sebastian Rosenzweig, Anschrift wie oben',
       },
-      footer: { made: 'Entwickelt mit ❤️ in Erlangen.' },
+      footer: { made: 'Entwickelt mit ❤️ in Erlangen.', licenses: 'Lizenzen' },
     },
     en: {
       menu: { open: 'Open menu', close: 'Close menu' },
@@ -177,7 +177,7 @@
         responsible: 'Responsible for the content',
         responsibleBody: 'Sebastian Rosenzweig, address as above',
       },
-      footer: { made: 'Made with ❤️ in Erlangen.' },
+      footer: { made: 'Made with ❤️ in Erlangen.', licenses: 'Licenses' },
     },
     gsw: {
       menu: { open: 'Menü uufmache', close: 'Menü zue' },
@@ -263,7 +263,7 @@
         responsible: 'Verantwortlich für den Inhalt',
         responsibleBody: 'Sebastian Rosenzweig, Anschrift wie oben',
       },
-      footer: { made: 'Mit ❤️ entwicklet z Erlange.' },
+      footer: { made: 'Mit ❤️ entwicklet z Erlange.', licenses: 'Lizänze' },
     },
   };
 
