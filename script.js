@@ -19,7 +19,7 @@
     navOverlay.classList.toggle('is-open', open);
     navOverlay.hidden = !open;
     menuToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-    const t = window.knipsI18n && window.knipsI18n.t;
+    const t = window.knippiI18n && window.knippiI18n.t;
     menuToggle.setAttribute(
       'aria-label',
       t ? t(open ? 'menu.close' : 'menu.open') : (open ? 'Menü schließen' : 'Menü öffnen')
@@ -129,11 +129,11 @@
 
   closeMenu();
 
-  if (window.knipsI18n && window.knipsI18n.onChange) {
-    window.knipsI18n.onChange(() => {
+  if (window.knippiI18n && window.knippiI18n.onChange) {
+    window.knippiI18n.onChange(() => {
       if (!menuToggle) return;
       const open = menuToggle.getAttribute('aria-expanded') === 'true';
-      menuToggle.setAttribute('aria-label', window.knipsI18n.t(open ? 'menu.close' : 'menu.open'));
+      menuToggle.setAttribute('aria-label', window.knippiI18n.t(open ? 'menu.close' : 'menu.open'));
     });
   }
 

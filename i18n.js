@@ -3,7 +3,7 @@
  *
  */
 (function () {
-  const STORAGE_KEY = 'knips-lang';
+  const STORAGE_KEY = 'knippi-lang';
   const LANGS = ['en', 'de', 'gsw'];
 
   const catalogs = {
@@ -24,7 +24,7 @@
       },
       hero: {
         headline: 'Weniger ist mehr.',
-        lead: 'Knïps bringt dir die Nostalgie analoger Fotografie auf dein Smartphone: Filmrolle einlegen, fotografieren, drucken. Fast wie früher.',
+        lead: 'Knïppi bringt dir die Nostalgie analoger Fotografie auf dein Smartphone: Filmrolle einlegen, fotografieren, drucken. Fast wie früher.',
         shotAlt: 'Ablauf: Filmrolle erstellen, Fotos knipsen, online drucken, analog genießen',
         featuresTitle: 'Features',
         feat1: 'Zeit- und Ortsstempel für deine Bilder',
@@ -40,10 +40,10 @@
         load: 'App laden',
       },
       shots: {
-        knips: 'Knïps',
+        knippi: 'Knïppi',
         place: 'Ort & Zeitstempel',
         hashtag: 'Hashtag-Funktion',
-        alt1: 'knïps App: Sucher mit Filmrolle Summer und Zeitstempel',
+        alt1: 'knïppi App: Sucher mit Filmrolle Summer und Zeitstempel',
         alt2: 'Ort- und Zeitstempel auf dem Foto im Sucher',
         alt3: 'Hashtag-Funktion im Sucher',
       },
@@ -56,7 +56,7 @@
           'Wenn du mich per E-Mail kontaktierst, verarbeite ich deine Angaben (E-Mail-Adresse, Inhalt der Nachricht) nur zur Bearbeitung deiner Anfrage.',
         app: 'App',
         appBody1:
-          'Knïps speichert Fotos und Einstellungen nur lokal auf deinem Gerät. Es gibt kein Backend, keine Konten. An mich werden keine personenbezogenen Daten aus der App übermittelt.',
+          'Knïppi speichert Fotos und Einstellungen nur lokal auf deinem Gerät. Es gibt kein Backend, keine Konten. An mich werden keine personenbezogenen Daten aus der App übermittelt.',
         appBody2:
           'Die App fragt nach Kamera, Mediathek und optional Standort, jeweils nur für die jeweilige Funktion (Fotos aufnehmen, in der Galerie speichern, Ort aufs Foto). Ist GPS an, enthält jedes Foto den genauen Standort in seinen Bilddaten, wie bei der normalen Handykamera. Für den Ortsnamen auf dem Foto schickt die App die Koordinaten an den Ortsdienst deines Geräts (Apple bzw. Google).',
         appBody3:
@@ -78,11 +78,11 @@
       terms: {
         heading: 'Nutzungsbedingungen',
         asOf: 'Stand: 2. September 2026',
-        p1: 'Knïps ist eine Kamera-App. Mit der Nutzung der App akzeptierst du diese Bedingungen.',
-        p2: 'Du nutzt Knïps auf eigene Gefahr. Ich übernehme keine Verantwortung für verlorene Fotos, kaputte Dateien, Probleme mit Drittanbieter-Diensten oder wenn die App einen schlechten Tag hat.',
+        p1: 'Knïppi ist eine Kamera-App. Mit der Nutzung der App akzeptierst du diese Bedingungen.',
+        p2: 'Du nutzt Knïppi auf eigene Gefahr. Ich übernehme keine Verantwortung für verlorene Fotos, kaputte Dateien, Probleme mit Drittanbieter-Diensten oder wenn die App einen schlechten Tag hat.',
         p3: 'Beim Druck-Upload kann die Datei an dm-Foto oder Coop Fotoservice gehen, je nach Land — nicht an mich. Mit dm und Coop gibt es keine Partnerschaft.',
         p4: 'Fotos und Einstellungen bleiben auf deinem Gerät. Wenn du zum Druck hochlädst, gelten die Regeln des Anbieters.',
-        p5: 'Fragen: <a href="mailto:knips.app@outlook.com">knips.app@outlook.com</a>',
+        p5: 'Fragen: <a href="mailto:knippi.analogkamera@outlook.com">knippi.analogkamera@outlook.com</a>',
       },
       imprint: {
         heading: 'Impressum',
@@ -110,7 +110,7 @@
       },
       hero: {
         headline: 'Less is more.',
-        lead: 'Knïps brings analog photography nostalgia to your phone: load a film roll, shoot, print. Almost like it used to be.',
+        lead: 'Knïppi brings analog photography nostalgia to your phone: load a film roll, shoot, print. Almost like it used to be.',
         shotAlt: 'Flow: create a film roll, take photos, print online, enjoy analog',
         featuresTitle: 'Features',
         feat1: 'Date and place stamps on your photos',
@@ -126,10 +126,10 @@
         load: 'Get the app',
       },
       shots: {
-        knips: 'Knïps',
+        knippi: 'Knïppi',
         place: 'Place & date stamp',
         hashtag: 'Hashtag',
-        alt1: 'knïps app: viewfinder with Summer film roll and date stamp',
+        alt1: 'knïppi app: viewfinder with Summer film roll and date stamp',
         alt2: 'Place and date stamp on the photo in the viewfinder',
         alt3: 'Hashtag in the viewfinder',
       },
@@ -142,7 +142,7 @@
           'If you email me, I only use your details (email address, message) to handle your request.',
         app: 'App',
         appBody1:
-          'Knïps stores photos and settings only locally on your device. There is no backend, no accounts. No personal data from the app is sent to me.',
+          'Knïppi stores photos and settings only locally on your device. There is no backend, no accounts. No personal data from the app is sent to me.',
         appBody2:
           'The app asks for camera, photo library and optionally location, each only for that feature (taking photos, saving to the gallery, place on the photo). With GPS on, every photo contains the exact location in its image data, as with the normal phone camera. For the place name on the photo, the app sends the coordinates to your device\'s location service (Apple or Google).',
         appBody3:
@@ -164,11 +164,11 @@
       terms: {
         heading: 'Terms of Service',
         asOf: 'As of: 2 September 2026',
-        p1: 'Knïps is a camera app. By using it you accept these terms.',
-        p2: 'You use Knïps at your own risk. I don’t take responsibility for lost photos, broken files, problems with third-party services, or the app having a bad day.',
+        p1: 'Knïppi is a camera app. By using it you accept these terms.',
+        p2: 'You use Knïppi at your own risk. I don’t take responsibility for lost photos, broken files, problems with third-party services, or the app having a bad day.',
         p3: 'If you upload for print, the file may go to dm-Foto or Coop Fotoservice, depending on country — not to me. No partnership with dm or Coop.',
         p4: 'Photos and settings stay on your device. If you upload for print, that provider’s rules apply.',
-        p5: 'Questions: <a href="mailto:knips.app@outlook.com">knips.app@outlook.com</a>',
+        p5: 'Questions: <a href="mailto:knippi.analogkamera@outlook.com">knippi.analogkamera@outlook.com</a>',
       },
       imprint: {
         heading: 'Imprint',
@@ -196,7 +196,7 @@
       },
       hero: {
         headline: 'Weniger isch meh.',
-        lead: 'Knïps bringt der d Nostalgi vo analoge Fotografii uf dis Smartphone: Filmrolle iileege, fotografiere, drucke. Fast wie früener.',
+        lead: 'Knïppi bringt der d Nostalgi vo analoge Fotografii uf dis Smartphone: Filmrolle iileege, fotografiere, drucke. Fast wie früener.',
         shotAlt: 'Ablauf: Filmrolle erstelle, Fotos knipse, online drucke, analog gniesse',
         featuresTitle: 'Features',
         feat1: 'Ziit- und Ortsstämpel für dini Bilder',
@@ -212,10 +212,10 @@
         load: 'App lade',
       },
       shots: {
-        knips: 'Knïps',
+        knippi: 'Knïppi',
         place: 'Ort & Ziitstämpel',
         hashtag: 'Hashtag-Funkzion',
-        alt1: 'knïps App: Suecher mit Filmrolle Summer und Ziitstämpel',
+        alt1: 'knïppi App: Suecher mit Filmrolle Summer und Ziitstämpel',
         alt2: 'Ort- und Ziitstämpel uf em Foto im Suecher',
         alt3: 'Hashtag-Funkzion im Suecher',
       },
@@ -228,7 +228,7 @@
           'Wänn du mich per E-Mail kontaktierst, verarbeit i dini Aagabe (E-Mail-Adrässe, Inhalt vo de Nachricht) nur zum dini Aafrog bearbeite.',
         app: 'App',
         appBody1:
-          'Knïps spycheret Fotos und Iistellige nur lokal uf dim Grät. Es git keis Backend, kei Konte. A mich wärded kei persönlichi Date us de App übermittlet.',
+          'Knïppi spycheret Fotos und Iistellige nur lokal uf dim Grät. Es git keis Backend, kei Konte. A mich wärded kei persönlichi Date us de App übermittlet.',
         appBody2:
           'D App fröget nach Kamera, Mediathek und optional Standort, jewiils nur für d Funkzion (Fotos ufnee, i de Galerie spychere, Ort ufs Foto). Isch GPS aa, het jedes Foto de gnaui Standort i sine Bilddate, wie bi de normale Handykamera. Für de Ortsname uf em Foto schickt d App d Koordinate a de Ortsdienscht vo dim Gerät (Apple bzw. Google).',
         appBody3:
@@ -250,11 +250,11 @@
       terms: {
         heading: 'Nutzigsbedingige',
         asOf: 'Stand: 2. Septämber 2026',
-        p1: 'Knïps isch e Kamera-App. Wänn du si bruchsch, akzeptierst du die Bedingige.',
-        p2: 'Du bruchsch Knïps uf eigeni Gfahr. Ich übernimm kei Verantwortig für verloreni Fotos, kaputti Dateie, Problem mit Drittaabieter-Dienscht oder wänn d App en schlechte Tag hät.',
+        p1: 'Knïppi isch e Kamera-App. Wänn du si bruchsch, akzeptierst du die Bedingige.',
+        p2: 'Du bruchsch Knïppi uf eigeni Gfahr. Ich übernimm kei Verantwortig für verloreni Fotos, kaputti Dateie, Problem mit Drittaabieter-Dienscht oder wänn d App en schlechte Tag hät.',
         p3: 'Bim Druck-Ufelade cha d Datei a dm-Foto oder Coop Fotoservice goh, je nach Land — nöd a mich. Mit dm und Coop git s kei Partnerschaft.',
         p4: 'Fotos und Iistellige bliibed uf dim Grät. Wänn du zum Druck ufeladisch, gälted d Regle vom Aabieter.',
-        p5: 'Frooge: <a href="mailto:knips.app@outlook.com">knips.app@outlook.com</a>',
+        p5: 'Frooge: <a href="mailto:knippi.analogkamera@outlook.com">knippi.analogkamera@outlook.com</a>',
       },
       imprint: {
         heading: 'Impressum',
@@ -382,5 +382,5 @@
 
   apply(current);
 
-  window.knipsI18n = { t: t, setLang: setLang, getLang: function () { return current; }, onChange: onChange };
+  window.knippiI18n = { t: t, setLang: setLang, getLang: function () { return current; }, onChange: onChange };
 })();
